@@ -7,4 +7,5 @@
 ## Requirements 
 
 tesseract-ocr version 4.1.1
+<br>
 Python 3.7.x+
